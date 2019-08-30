@@ -1,4 +1,4 @@
-# ListFormattingSmallCard
+# List Formatting Small Card
 
 Sample of a list Formatting for SharePoint using  
 
@@ -14,5 +14,5 @@ Sample of a list Formatting for SharePoint using
 |Phone Number|Single line of Text| 
 |Person|Person|
 
-Version 1.0
-Date: 8/30/2019
+##### Version 1.0
+##### Date: 8/30/2019
