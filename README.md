@@ -6,13 +6,13 @@ Sample of a list Formatting for SharePoint using
 
 ### View requirements
 
-|Column Name|Type of Column|
-|-|-|
-|Title |Single line of Text|
-|Linkedin|HyperLink| 
-|Job Title|Single line of Text|
-|Phone Number|Single line of Text| 
-|Person|Person|
+|Column Name|Type of Column|Internal Column Name|
+|-|-|-|
+|Title |Single line of Text|Title|
+|LinkedIn|HyperLink|LinkedIn|
+|Job Title|Single line of Text|JobTitle|
+|Phone Number|Single line of Text|PhoneNumber|
+|Person|Person|Person|
 
-##### Version 1.0
-##### Date: 8/30/2019
+##### Version 2.0
+##### Date: 9/9/2019
