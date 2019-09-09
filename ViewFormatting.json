@@ -26,7 +26,7 @@
                 "border-radius": "50%"
               },
               "attributes": {
-                "src": "[$Person.picture]"
+                "src": "='/_layouts/15/userphoto.aspx?size=S&username='[$Person.email]"
               }
             }
           ]
