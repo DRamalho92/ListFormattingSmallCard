@@ -14,5 +14,5 @@ Sample of a list Formatting for SharePoint using
 |Phone Number|Single line of Text|PhoneNumber|
 |Person|Person|Person|
 
-##### Version 2.0
-##### Date: 9/9/2019
+##### Version 3.0
+##### Date: 23/7/2020
